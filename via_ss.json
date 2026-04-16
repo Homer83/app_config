@@ -8,6 +8,9 @@
 			"ip.me",
 			"whatsapp.com",
 			"whatsapp.net"
+			],
+			"ip_cidr": [
+			"149.154.160.0/20"
 			]
 		}
 	]
